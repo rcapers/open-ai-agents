@@ -36,7 +36,7 @@ The system uses six specialized agents, each with a specific role:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/open-ai-agents.git
+   git clone https://github.com/rcapers/open-ai-agents.git
    cd open-ai-agents/api_spec_generator
    ```
 
